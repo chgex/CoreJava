@@ -104,6 +104,8 @@ jdk docs: [JDK15 document](https://docs.oracle.com/en/java/javase/15/index.html)
 
 ## ch04 对象与类
 
+[ch04-对象域类](./ch04/README.md)
+
 关键词：面向对象——封装机制：类与方法，javadoc工具，java语言规则。
 
 ch05 继承
