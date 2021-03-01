@@ -108,11 +108,15 @@ jdk docs: [JDK15 document](https://docs.oracle.com/en/java/javase/15/index.html)
 
 关键词：面向对象——封装机制：类与方法，javadoc工具，java语言规则。
 
-ch05 继承
+## ch05 继承
+
+[ch05-继承与多态](./ch05/README.md)
 
 关键词：面向对象——继承机制。
 
-ch06 接口、lambda表达式与内部类
+## ch06 接口、lambda表达式与内部类
+
+
 
 关键词：接口、lambda表达式，java技术特征之内部类
 
