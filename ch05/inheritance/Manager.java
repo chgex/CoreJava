@@ -1,9 +1,9 @@
+//package inheritance;
 package inheritance;
-
 /*
  * @Author: liubai
  * @Date: 2021-03-01
- * @LastEditTime: 2021-03-01
+ * @LastEditTime: 2021-03-02
  */
 public class Manager extends Employee
 {
