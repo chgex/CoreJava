@@ -116,9 +116,9 @@ jdk docs: [JDK15 document](https://docs.oracle.com/en/java/javase/15/index.html)
 
 ## ch06 接口、lambda表达式与内部类
 
+[ch06-接口、lambda表达式、内部类](./ch06/README.md)
 
-
-关键词：接口、lambda表达式，java技术特征之内部类
+关键词：接口、lambda表达式，java技术特征之内部类。
 
 ch07 异常处理
 
