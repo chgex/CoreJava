@@ -339,7 +339,7 @@ Employrr copy=original;
 
 上述代码中两个对象的状态如下：
 
-![image-20210302185427095](https://gitee.com/changyv/md-pic/raw/master/20210302185436.png)
+<img src="https://gitee.com/changyv/md-pic/raw/master/20210302185436.png" alt="image-20210302185427095" style="zoom:50%;" />
 
 如果希望copy是个新的对象，只是拥有和original一样的状态，那么就需要用到clone方法：
 
@@ -350,7 +350,7 @@ Employee copy=original.clone();
 
 现在，两个对象的状态如下：
 
-![image-20210302185728417](https://gitee.com/changyv/md-pic/raw/master/20210302185730.png)
+<img src="https://gitee.com/changyv/md-pic/raw/master/20210302185730.png" alt="image-20210302185728417" style="zoom:50%;" />
 
 Note：
 
@@ -624,7 +624,7 @@ Note:
 
 内部类`TimerPrinter`对象，与外部类`TalkingClock`的关系，如下图：
 
-![image-20210303145920931](C:%5CUsers%5Cjgang%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210303145920931.png)
+<img src="https://gitee.com/changyv/md-pic/raw/master/20210303185605.png" alt="image-20210303145920931" style="zoom:50%;" />
 
 注：outer实际并不存在，只是为了说明隐式引用。那条线实际等价于隐式引用。
 
@@ -777,6 +777,4 @@ Note:
 ### 代理
 
 暂时跳过。
-
-
 
