@@ -126,7 +126,9 @@ jdk docs: [JDK15 document](https://docs.oracle.com/en/java/javase/15/index.html)
 
 关键词：异常处理、捕获异常、使用断言、基本日志、调试技巧。
 
-ch08 泛型程序设计
+## ch08 泛型程序设计
+
+[ch09 泛型](./ch08/README.md)
 
 关键词：泛型类、泛型方法、泛型变量、约束与局限、通配符类型、反射和泛型。
 
