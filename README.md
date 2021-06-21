@@ -128,7 +128,7 @@ jdk docs: [JDK15 document](https://docs.oracle.com/en/java/javase/15/index.html)
 
 ## ch08 泛型程序设计
 
-[ch09 泛型](./ch08/README.md)
+[ch09 泛型](./ch08/)
 
 关键词：泛型类、泛型方法、泛型变量、约束与局限、通配符类型、反射和泛型。
 
