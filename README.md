@@ -18,7 +18,7 @@ jdk docs: [JDK15 document](https://docs.oracle.com/en/java/javase/15/index.html)
 + 使用swing ui 工具箱进行图形用户界面设计
 + 并行操作
 
-卷二：
+卷二主要介绍：
 
 + 流API
 + 文件处理与正则表达式
@@ -28,6 +28,8 @@ jdk docs: [JDK15 document](https://docs.oracle.com/en/java/javase/15/index.html)
 + 网络编程
 + 高级GUI组件
 + 高级图形
+
+---
 
 **卷一章节简述**
 
@@ -96,37 +98,37 @@ jdk docs: [JDK15 document](https://docs.oracle.com/en/java/javase/15/index.html)
 
 ## 卷一
 
-## ch03 java程序设计结构
+### ch03 java程序设计结构
 
-[ch03-Java程序设计结构.md](./ch03/README.md)
+[ch03-Java程序设计结构.md](./ch03/)
 
 关键词：数据类型，变量，字符串，输入输出，数组，简单函数。
 
-## ch04 对象与类
+### ch04 对象与类
 
-[ch04-对象域类](./ch04/README.md)
+[ch04-对象域类](./ch04/)
 
 关键词：面向对象——封装机制：类与方法，javadoc工具，java语言规则。
 
-## ch05 继承
+### ch05 继承
 
-[ch05-继承与多态](./ch05/README.md)
+[ch05-继承与多态](./ch05/)
 
 关键词：面向对象——继承机制。
 
-## ch06 接口、lambda表达式与内部类
+### ch06 接口、lambda表达式与内部类
 
-[ch06-接口、lambda表达式、内部类](./ch06/README.md)
+[ch06-接口、lambda表达式、内部类](./ch06/)
 
 关键词：接口、lambda表达式，java技术特征之内部类。
 
-## ch07 异常、断言和日志
+### ch07 异常、断言和日志
 
-[ch07 异常、断言](./ch07/README.md)
+[ch07 异常、断言](./ch07/)
 
 关键词：异常处理、捕获异常、使用断言、基本日志、调试技巧。
 
-## ch08 泛型程序设计
+### ch08 泛型程序设计
 
 [ch09 泛型](./ch08/)
 
